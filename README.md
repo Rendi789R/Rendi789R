@@ -1,4 +1,4 @@
-# Hello My Name Is Akamiya Chizui 
+# Hello My Name Is Rendi Ramadani
 
 Hello >///< Welcome To My Profile
 - My Social Media
