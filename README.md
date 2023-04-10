@@ -1,6 +1,5 @@
 # Hello My Name Is Rendi Ramadani
 
-Hello >///< Welcome To My Profile
 - My Social Media
   - Discord : Rendi#9853
   
