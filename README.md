@@ -1,6 +1,6 @@
-# Hello My Name Is Rendi Ramadani
+# Hello My Name Is Rendhi Ramadhani
 
 - My Social Media
-  - Discord : Rendi#9853
+  - Discord : ren.di_
   
 <img src="https://discord.c99.nl/widget/theme-2/782031332170924073.png"/>
