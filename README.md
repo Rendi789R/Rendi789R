@@ -2,7 +2,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet" alt="Profile views" />
 
-🌍 18 y/o Developer from **Samarinda, Indonesia**  
+🌍 18 y/o Developer from **Samarinda, Kalimantan Timur, Indonesia**  
 🎓 Learning enthusiast & tech explorer  
 💻 Passionate about programming and web development  
 🚀 Aiming to contribute to open source projects
@@ -15,7 +15,6 @@
 ![HTML5](https://img.shields.io/badge/Code-HTML5-%23E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/Code-CSS3-%231572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/Framework-React-%2361DAFB?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-%23339933?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/Tool-Git-%23F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/Platform-GitHub-%23181717?style=flat&logo=github)
