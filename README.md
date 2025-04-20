@@ -1,6 +1,6 @@
 # Hi there, I'm Rendhi Ramadhani! 👋
 
-<img align="right" src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet" alt="Profile views" />
+<img align="right" src="https://komarev.com/ghpvc/?username=Rendi789R&label=Profile+Views&color=blueviolet" alt="Profile views" />
 
 🌍 18 y/o Developer from **Samarinda, Kalimantan Timur, Indonesia**  
 🎓 Learning enthusiast & tech explorer  
@@ -24,8 +24,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rendi789R&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rendi789R&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
@@ -47,5 +47,5 @@
 
 ---
 
-⭐ From [Rendhi Ramadhani](https://github.com/yourusername)  
+⭐ From [Rendhi Ramadhani](https://github.com/Rendi789R)  
 🙏 "Jangan lupa istirahat dan minum air yang cukup!" 😊
